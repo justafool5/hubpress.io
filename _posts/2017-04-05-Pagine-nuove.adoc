@@ -1,0 +1,10 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2017-04-04
+// :hp-tags: Riflessioni personali, BG
+// :hp-alt-title: Nuovamente il diario
+
+= Pagine nuove
+
+Mi trovo a riaprire queste pagine polverose dopo alcuni anni senza che vi abbia scritto nemmeno due lettere.
