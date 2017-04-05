@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://justafool5.github.io",
     "hubpress": "https://justafool5.github.io",
-    "theme": "//justafool5.github.io/themes/casper",
+    "theme": "//justafool5.github.io/themes/uno",
     "images": "https://justafool5.github.io/images"
   },
   "initialisationConfigComponent": {
@@ -28,7 +28,7 @@
     "title": "Ygwild Telcontar",
     "description": "Cronache degli ultimi anni di una vecchia guerriera",
     "logo": "https://image.ibb.co/ePv4Tv/VRnIKjy.gif",
-    "cover": "",
+    "cover": "https://www.google.ch/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiI5JvRiI7TAhWDcRQKHVo8CMsQjRwIBw&url=http%3A%2F%2Fkingofwallpapers.com%2Fsword.html&psig=AFQjCNFAIZqL8-q4ABfpOnrb00iSLU7edA&ust=1491507511792281",
     "delay": "",
     "postsPerPage": "",
     "googleAnalytics": "",
