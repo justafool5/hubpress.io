@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "the-shell"
+    "name": "uno-zen"
   },
   "urls": {
     "site": "https://justafool5.github.io",
     "hubpress": "https://justafool5.github.io",
-    "theme": "//justafool5.github.io/themes/ichi",
+    "theme": "//justafool5.github.io/themes/the-shell",
     "images": "https://justafool5.github.io/images"
   },
   "initialisationConfigComponent": {
