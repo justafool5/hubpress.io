@@ -6,13 +6,13 @@
     "cname": ""
   },
   "theme": {
-    "name": "casper"
+    "name": "uno"
   },
   "urls": {
-    "site": "http://Ygwild",
+    "site": "https://justafool5.github.io",
     "hubpress": "https://justafool5.github.io",
-    "theme": "//Ygwild/themes/casper",
-    "images": "http://Ygwild/images"
+    "theme": "//justafool5.github.io/themes/casper",
+    "images": "https://justafool5.github.io/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
