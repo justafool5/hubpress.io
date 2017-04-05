@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://justafool5.github.io",
     "hubpress": "https://justafool5.github.io",
-    "theme": "//justafool5.github.io/themes/ghostium",
+    "theme": "//justafool5.github.io/themes/roon",
     "images": "https://justafool5.github.io/images"
   },
   "initialisationConfigComponent": {
@@ -27,7 +27,7 @@
   "site": {
     "title": "Ygwild Telcontar",
     "description": "Cronache degli ultimi anni di una vecchia guerriera",
-    "logo": "",
+    "logo": "https://image.ibb.co/ePv4Tv/VRnIKjy.gif",
     "cover": "",
     "delay": "",
     "postsPerPage": "",
