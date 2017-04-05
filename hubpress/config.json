@@ -3,7 +3,7 @@
     "username": "justafool5",
     "repositoryName": "justafool5.github.io",
     "branch": "master",
-    "cname": "Ygwild"
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -11,7 +11,7 @@
   "urls": {
     "site": "http://Ygwild",
     "hubpress": "https://justafool5.github.io",
-    "theme": "//Ygwild/themes/uno",
+    "theme": "//Ygwild/themes/casper",
     "images": "http://Ygwild/images"
   },
   "initialisationConfigComponent": {
