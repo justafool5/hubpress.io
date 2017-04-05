@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ichi"
+    "name": "the-shell"
   },
   "urls": {
     "site": "https://justafool5.github.io",
     "hubpress": "https://justafool5.github.io",
-    "theme": "//justafool5.github.io/themes/roon",
+    "theme": "//justafool5.github.io/themes/ichi",
     "images": "https://justafool5.github.io/images"
   },
   "initialisationConfigComponent": {
