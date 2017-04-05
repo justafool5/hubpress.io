@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ghostium"
+    "name": "roon"
   },
   "urls": {
     "site": "https://justafool5.github.io",
     "hubpress": "https://justafool5.github.io",
-    "theme": "//justafool5.github.io/themes/casper",
+    "theme": "//justafool5.github.io/themes/ghostium",
     "images": "https://justafool5.github.io/images"
   },
   "initialisationConfigComponent": {
