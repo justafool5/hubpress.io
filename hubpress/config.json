@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "casper"
+    "name": "uno"
   },
   "urls": {
     "site": "https://justafool5.github.io",
     "hubpress": "https://justafool5.github.io",
-    "theme": "//justafool5.github.io/themes/uno-zen",
+    "theme": "//justafool5.github.io/themes/casper",
     "images": "https://justafool5.github.io/images"
   },
   "initialisationConfigComponent": {
