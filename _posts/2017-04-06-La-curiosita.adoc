@@ -1,6 +1,6 @@
 // = Your Blog title
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-// :hp-image: /covers/cover.png
+// :hp-image: /sfondo_post.jpg
 // :published_at: 2017-04-05
 // :hp-tags: Erranti
 // :hp-alt-title: Arrivo al Castello Errante
